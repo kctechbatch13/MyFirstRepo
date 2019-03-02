@@ -1,2 +1,5 @@
 Hello
 Modified
+hello1
+hello2
+git config --list
