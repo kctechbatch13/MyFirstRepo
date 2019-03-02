@@ -2,4 +2,5 @@ Hello
 Modified
 hello1
 hello2
-git config --list
+git config --lis
+merget
